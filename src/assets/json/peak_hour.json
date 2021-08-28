@@ -1,0 +1,337 @@
+[
+  {
+    "day_of_week": "Saturday ",
+    "hour": "12",
+    "count": 9
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "11",
+    "count": 19
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "09",
+    "count": 23
+  },
+  {
+    "day_of_week": "Saturday ",
+    "hour": "08",
+    "count": 1
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "02",
+    "count": 13
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "12",
+    "count": 1
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "08",
+    "count": 54
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "03",
+    "count": 6
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "06",
+    "count": 23
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "10",
+    "count": 6
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "07",
+    "count": 41
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "02",
+    "count": 9
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "04",
+    "count": 5
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "05",
+    "count": 7
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "09",
+    "count": 23
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "01",
+    "count": 2
+  },
+  {
+    "day_of_week": "Saturday ",
+    "hour": "10",
+    "count": 7
+  },
+  {
+    "day_of_week": "Saturday ",
+    "hour": "09",
+    "count": 3
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "10",
+    "count": 13
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "08",
+    "count": 59
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "06",
+    "count": 23
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "07",
+    "count": 50
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "12",
+    "count": 17
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "09",
+    "count": 18
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "05",
+    "count": 5
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "04",
+    "count": 14
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "01",
+    "count": 13
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "11",
+    "count": 12
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "02",
+    "count": 6
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "08",
+    "count": 50
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "10",
+    "count": 14
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "03",
+    "count": 3
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "12",
+    "count": 7
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "04",
+    "count": 1
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "02",
+    "count": 3
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "11",
+    "count": 10
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "12",
+    "count": 14
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "07",
+    "count": 36
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "03",
+    "count": 9
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "08",
+    "count": 65
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "03",
+    "count": 5
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "06",
+    "count": 15
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "07",
+    "count": 50
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "10",
+    "count": 12
+  },
+  {
+    "day_of_week": "Saturday ",
+    "hour": "01",
+    "count": 7
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "09",
+    "count": 26
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "04",
+    "count": 16
+  },
+  {
+    "day_of_week": "Saturday ",
+    "hour": "06",
+    "count": 2
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "01",
+    "count": 2
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "05",
+    "count": 6
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "06",
+    "count": 14
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "07",
+    "count": 66
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "10",
+    "count": 9
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "01",
+    "count": 11
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "09",
+    "count": 22
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "05",
+    "count": 10
+  },
+  {
+    "day_of_week": "Saturday ",
+    "hour": "07",
+    "count": 3
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "04",
+    "count": 5
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "11",
+    "count": 14
+  },
+  {
+    "day_of_week": "Thursday ",
+    "hour": "02",
+    "count": 10
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "05",
+    "count": 6
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "01",
+    "count": 13
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "hour": "11",
+    "count": 11
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "12",
+    "count": 3
+  },
+  {
+    "day_of_week": "Friday   ",
+    "hour": "06",
+    "count": 13
+  },
+  {
+    "day_of_week": "Monday   ",
+    "hour": "03",
+    "count": 2
+  },
+  {
+    "day_of_week": "Wednesday",
+    "hour": "08",
+    "count": 74
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "premise_name": null,
+    "count": 661
+  },
+  {
+    "premise_name": "Fidelity Bank",
+    "count": 6
+  },
+  {
+    "premise_name": "BW HQ Office",
+    "count": 93
+  },
+  {
+    "premise_name": "Premise 2",
+    "count": 2
+  },
+  {
+    "premise_name": "AIRTEL HQ OFFICE",
+    "count": 38
+  },
+  {
+    "premise_name": "Byteworks Lagos",
+    "count": 113
+  },
+  {
+    "premise_name": "Yes NIN",
+    "count": 2
+  },
+  {
+    "premise_name": "THE VIEW HOTEL",
+    "count": 6
+  },
+  {
+    "premise_name": "No both",
+    "count": 19
+  },
+  {
+    "premise_name": "Yes both",
+    "count": 2
+  },
+  {
+    "premise_name": "Fidelity Bank Branch 2",
+    "count": 5
+  },
+  {
+    "premise_name": "Byteworks Enugu",
+    "count": 35
+  },
+  {
+    "premise_name": "Premise BW",
+    "count": 1
+  },
+  {
+    "premise_name": "Byteworks HQ",
+    "count": 133
+  },
+  {
+    "premise_name": "HQ Staff",
+    "count": 5
+  }
+]

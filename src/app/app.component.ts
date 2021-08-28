@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { DataModel } from 'src/data/data.model';
 
 @Component({
   selector: 'app-root',

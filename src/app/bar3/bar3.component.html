@@ -1,0 +1,22 @@
+<h2>Permanence Index</h2>
+
+<form [formGroup]="form">
+    <div class="col-lg-3 col-md-4">
+<div class="form-group">
+<label for="premise">Premise Name</label>
+<select
+  class="form-control"
+  name="premise"
+  id="premise"
+  formControlName="premise"
+>
+  <option value="" selected>- Select Premise -</option>
+  <option *ngFor="let premise of premises" value="{{ premise }}">
+    {{ premise }}
+  </option>
+</select>
+</div>
+</div>
+</form>
+
+<figure id="bar3"></figure>

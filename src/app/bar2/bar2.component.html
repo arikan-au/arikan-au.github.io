@@ -1,0 +1,22 @@
+<h2>Peak Hours</h2>
+
+<form [formGroup]="form">
+    <div class="col-lg-3 col-md-4">
+<div class="form-group">
+<label for="dayOfWeek">Week Day</label>
+<select
+  class="form-control"
+  name="dayOfWeek"
+  id="dayOfWeek"
+  formControlName="dayOfWeek"
+>
+  <option value="" selected>- Select Day Of Week -</option>
+  <option *ngFor="let weekDay of weekDays" value="{{ weekDay }}">
+    {{ weekDay }}
+  </option>
+</select>
+</div>
+</div>
+</form>
+
+<figure id="bar2"></figure>
