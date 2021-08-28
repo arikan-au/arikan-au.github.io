@@ -2,78 +2,82 @@
   <h1>TracksQR Sample Dashboard</h1>
 </header>
 
-<div class = "container">
-  <br>
+<div class="">
 
-  <div class="col-12 mb-3 box-card py-3 d-flex flex-wrap justify-content-between container rounded-3">
+  <!-- <div class="col-12 mb-3 box-card py-3 d-flex flex-wrap justify-content-between container rounded-3">
     <div class="d-flex flex-wrap">
       <div class="btn px-3 btn-primary">Level Button</div>
       <div class="d-flex flex-wrap">
         <input class=" form-control-sm mx-3 fmx" placeholder="Start Date" type="date">
         <input class=" form-control-sm mx-3 fmx" placeholder="Start Date" type="date">
       </div>
-     
+
     </div>
 
     <div class="btn btn-secondary">
       Toggle to list view
       <i class="iconify ms-2" data-inline="false" data-icon="mdi:menu"></i>
     </div>
-  <div class = "row">
-    <div class = "col-md-4">
-      <div class = "card card-body h-100 w-100">
-       <h3>Live  Feed</h3>
+  </div> -->
+  <div class="row mb-3 mt-3">
+    <div class="col-md-4">
+      <div class="card card-body h-100 w-100 card-class">
+        <h3>Live Feed</h3>
       </div>
     </div>
 
-    <div class = "col-md-4">
-      <div class = "card card-body h-100 w-100">
+    <div class="col-md-4">
+      <div class="card card-body h-100 w-100 card-class">
         <app-bar></app-bar>
       </div>
     </div>
 
-    <div class = "col-md-4">
-      <div class = "card card-body h-100">
+    <div class="col-md-4">
+      <div class="card card-body h-100 w-100 card-class">
         <app-pie></app-pie>
-      </div> 
-    </div>
-
-    <br>
-
-    <div class = "row">
-      <div class = "col-md-4">
-        <div class = "card card-body h-100">
-         <app-bar3></app-bar3>
-        </div>
-      </div>
-
-      <div class = "col-md-4">
-        <div class = "card card-body h-100">
-          <app-bar2></app-bar2>
-        </div> 
-      </div>
-  
-      <div class = "col-md-4">
-        <div class = "card card-body h-100">
-          <app-pie2></app-pie2>
-        </div> 
-      </div>
-    </div>
-
-   <br>
-
-    <div class="row">
-      <div class="col-md-12">
-        <div class="card card-body h-100">
-          <app-scatter></app-scatter>
-        </div>
-         
       </div>
     </div>
   </div>
 
+
+  <div class="row mb-3">
+    <div class="col-md-4">
+      <div class="card card-body h-100 w-100 card-class">
+        <app-bar3></app-bar3>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card card-body h-100 w-100 card-class">
+        <app-bar2 class="w100Force"></app-bar2>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="card card-body h-100 w-100 card-class">
+        <app-pie2></app-pie2>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mb-3">
+    <div class="col-md-12">
+      <div class="card card-body h-100 w-100 card-class">
+        <app-scatter></app-scatter>
+      </div>
+    </div>
+  </div>
 </div>
 
+<style>
+  .card-class {
+    overflow: hidden ! important
+  }
+
+  .w100Force {
+    width: 100% !important
+  }
+</style>
 <!-- <div class="container my-5 py-4">
 
 
@@ -131,17 +135,9 @@
 </div> -->
 
 <!-- JQuery -->
-<script
-  src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-  crossorigin="anonymous"
-></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <!-- Bootstrap JS-->
-<script
-  src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
-  integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
-  crossorigin="anonymous"
-></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
-
-
