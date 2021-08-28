@@ -1,0 +1,83 @@
+@import url('http://fonts.cdnfonts.com/css/dm-sans');
+
+:root {
+    --background-color: #eeeef5;
+    --primary: rgb(44,123,229);
+    --primary-hover: rgb(44,123,229);
+    --bg-color:#d9e2ef;
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+    font-size:14px;
+    background-color: var(--bg-color);
+
+}
+.fmx{
+    max-height:40px;
+    min-width:100px;
+    display: block;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.bd{
+    border: solid 1px red;
+}
+
+
+.btn-secondary{
+    background-color:#d5e5fa;
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--primary);
+    outline: none !important;
+    border:none;
+}
+
+.box-card{
+    background:white;
+}
+.btn-primary {
+    background-color: var(--primary);
+    font-size: 14px;
+    font-weight: 500;
+    border-color: var(--primary);
+    color: #fff;
+    outline: none !important;
+    box-shadow: rgba(44,123,229,.4) 0px 18px 45px -12px;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    opacity:0.95;
+    border-color: var(--primary-hover);
+    outline: 0px !important;
+}
+
+.btn-primary-outline {
+    background-color: transparent;
+    border-color: var(--primary);
+    color: var(--primary);
+    outline: 0px !important;
+}
+
+.btn-primary-outline:hover,
+.btn-primary-outline:focus,
+.btn-primary-outline:active {
+    background-color: var(--primary);
+    border-color: var(--primary);
+    color: #ffffff;
+    outline: 0px !important;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "day_of_week": "Monday   ",
+    "count": 191
+  },
+  {
+    "day_of_week": "Saturday ",
+    "count": 32
+  },
+  {
+    "day_of_week": "Tuesday  ",
+    "count": 227
+  },
+  {
+    "day_of_week": "Friday   ",
+    "count": 210
+  },
+  {
+    "day_of_week": "Thursday ",
+    "count": 241
+  },
+  {
+    "day_of_week": "Wednesday",
+    "count": 220
+  }
+]
